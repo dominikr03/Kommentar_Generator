@@ -30,12 +30,12 @@ Der **Kommentar-Generator** ist ein einfaches, browserbasiertes Werkzeug, welche
 ---
 ### Vorschau
 
-#### Beispielausgabe:
+Beispielausgabe:
 ```html
 <!-- -~-~-~-~-~-~-~ Navigation -~-~-~-~-~-~-~ -->
 ```
 
-#### Ausgabe ohne Text:
+Ausgabe ohne Text:
 ```html
 <!-- ========================================= -->
 ```

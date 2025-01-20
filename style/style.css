@@ -1,0 +1,28 @@
+/* Navigation */
+.navbar {
+    width: 90%;
+    max-width: 1300px;
+    border-radius: 30px;
+    padding: 15px 30px;
+    margin: 20px auto;
+}
+
+/* Ausgabe-Feld */
+.ausgabeFeld {
+    background-color: #f1f3f5;
+    border: 1px solid #ced4da;
+    color: #343a40;
+    border-radius: 15px;
+    padding: 30px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+
+/* Formular */
+.form-card {
+    background-color: #fff;
+    border: 1px solid #555555d0;
+    border-radius: 15px;
+    padding: 20px;
+}
